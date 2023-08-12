@@ -1,1 +1,1 @@
-welcome in if you like C
+this is my task as C - Variables, if, else, while
