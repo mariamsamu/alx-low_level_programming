@@ -1,2 +1,3 @@
-welcome in my C - Functions, nested loops at alx
+this is my task as C - Functions, nested loops
+
 
