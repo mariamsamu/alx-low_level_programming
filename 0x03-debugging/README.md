@@ -1,2 +1,2 @@
-welcome in my C - Debugging at alx
+this is my task as C - Debugging
 
