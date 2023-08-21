@@ -1,2 +1,2 @@
-# welcome in my C - Pointers, arrays and strings at alx , me (cstfre)
+# this is my task as C - Pointers, arrays and strings
 
