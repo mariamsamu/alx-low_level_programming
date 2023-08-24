@@ -1,1 +1,1 @@
-# welcome in my  More pointers, arrays and strings  at alx , me (cstfre)
+# this is my task as C - More pointers, arrays and strings
